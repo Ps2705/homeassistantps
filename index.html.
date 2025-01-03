@@ -1,10 +1,9 @@
- <!DOCTYPE html>
- <html>
- <head>
-     <title>Home Assistant Tips</title>
-</head>
-<body>
-    <h1>Welcome to Home Assistant Tips!</h1>
-    <p>This is your first GitHub Pages site.</p>
-</body>
+<html>
+  <body>
+    <h1>This is Subdomain</h1>
+    <style>
+     body { background-color:blue;
+      color:#FFF;}
+    </style>
+  </body>
 </html>
